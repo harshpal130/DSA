@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshpal130/DSA/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/harshpal130/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harshpal130/DSA/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harshpal130/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harshpal130/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
