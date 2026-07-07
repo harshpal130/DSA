@@ -47,5 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harshpal130/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/harshpal130/DSA/tree/master/0242-valid-anagram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshpal130/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/harshpal130/DSA/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/harshpal130/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
