@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/harshpal130/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshpal130/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshpal130/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshpal130/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harshpal130/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshpal130/DSA/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/harshpal130/DSA/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshpal130/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshpal130/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/harshpal130/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Dynamic Programming
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/harshpal130/DSA/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/harshpal130/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshpal130/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshpal130/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshpal130/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshpal130/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harshpal130/DSA/tree/master/2487-remove-nodes-from-linked-list) |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/harshpal130/DSA/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshpal130/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
