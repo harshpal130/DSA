@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/harshpal130/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshpal130/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshpal130/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/harshpal130/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshpal130/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshpal130/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harshpal130/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/harshpal130/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshpal130/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshpal130/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/harshpal130/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshpal130/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/harshpal130/DSA/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/harshpal130/DSA/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshpal130/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/harshpal130/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshpal130/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/harshpal130/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harshpal130/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshpal130/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/harshpal130/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
