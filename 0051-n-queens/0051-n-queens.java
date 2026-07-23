@@ -1,0 +1,73 @@
+import java.util.*;
+
+class Solution {
+
+    List<List<String>> ans = new ArrayList<>();
+
+    public List<List<String>> solveNQueens(int n) {
+
+        char[][] board = new char[n][n];
+
+        // Initialize the board with '.'
+        for (int i = 0; i < n; i++) {
+            Arrays.fill(board[i], '.');
+        }
+
+        nQueen(board, 0);
+
+        return ans;
+    }
+
+    private void nQueen(char[][] board, int row) {
+
+        if (row == board.length) {
+
+            List<String> temp = new ArrayList<>();
+
+            for (int i = 0; i < board.length; i++) {
+                temp.add(new String(board[i]));
+            }
+
+            ans.add(temp);
+            return;
+        }
+
+        for (int col = 0; col < board.length; col++) {
+
+            if (isSafe(board, row, col)) {
+
+                board[row][col] = 'Q';
+
+                nQueen(board, row + 1);
+
+                board[row][col] = '.';
+            }
+        }
+    }
+
+    private boolean isSafe(char[][] board, int row, int col) {
+
+        // Vertical Up
+        for (int i = row - 1; i >= 0; i--) {
+            if (board[i][col] == 'Q') {
+                return false;
+            }
+        }
+
+        // Upper Left Diagonal
+        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
+            if (board[i][j] == 'Q') {
+                return false;
+            }
+        }
+
+        // Upper Right Diagonal
+        for (int i = row - 1, j = col + 1; i >= 0 && j < board.length; i--, j++) {
+            if (board[i][j] == 'Q') {
+                return false;
+            }
+        }
+
+        return true;
+    }
+}
