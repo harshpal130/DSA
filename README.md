@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshpal130/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshpal130/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/harshpal130/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/harshpal130/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/harshpal130/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/harshpal130/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshpal130/DSA/tree/master/0503-next-greater-element-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/harshpal130/DSA/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/harshpal130/DSA/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/harshpal130/DSA/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
