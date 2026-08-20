@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshpal130/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshpal130/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshpal130/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/harshpal130/DSA/tree/master/0039-combination-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshpal130/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshpal130/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/harshpal130/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshpal130/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshpal130/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshpal130/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshpal130/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/harshpal130/DSA/tree/master/0912-sort-an-array) |
