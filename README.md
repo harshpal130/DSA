@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/harshpal130/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshpal130/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshpal130/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/harshpal130/DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshpal130/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/harshpal130/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harshpal130/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -221,11 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/harshpal130/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/harshpal130/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshpal130/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1927-sum-game](https://github.com/harshpal130/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshpal130/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshpal130/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1927-sum-game](https://github.com/harshpal130/DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshpal130/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/harshpal130/DSA/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/harshpal130/DSA/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
