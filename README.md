@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/harshpal130/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshpal130/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshpal130/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0260-single-number-iii](https://github.com/harshpal130/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/harshpal130/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/harshpal130/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/harshpal130/DSA/tree/master/0485-max-consecutive-ones) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/harshpal130/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/harshpal130/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
