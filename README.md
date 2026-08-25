@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshpal130/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/harshpal130/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harshpal130/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/harshpal130/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/harshpal130/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/harshpal130/DSA/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshpal130/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/harshpal130/DSA/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/harshpal130/DSA/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/harshpal130/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/harshpal130/DSA/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/harshpal130/DSA/tree/master/0912-sort-an-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/harshpal130/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/harshpal130/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/harshpal130/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/harshpal130/DSA/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/harshpal130/DSA/tree/master/0131-palindrome-partitioning) |
 ## Linked List
