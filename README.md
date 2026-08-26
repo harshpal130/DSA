@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/harshpal130/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/harshpal130/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshpal130/DSA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/harshpal130/DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/harshpal130/DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/harshpal130/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/harshpal130/DSA/tree/master/0877-stone-game) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshpal130/DSA/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/harshpal130/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/harshpal130/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/harshpal130/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshpal130/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/harshpal130/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/harshpal130/DSA/tree/master/0509-fibonacci-number) |
 ## Minimax
 |  |
