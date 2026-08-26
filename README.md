@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshpal130/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/harshpal130/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harshpal130/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshpal130/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-clear-digits](https://github.com/harshpal130/DSA/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
@@ -401,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/harshpal130/DSA/tree/master/0032-longest-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshpal130/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
