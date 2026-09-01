@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/harshpal130/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/harshpal130/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/harshpal130/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/harshpal130/DSA/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshpal130/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshpal130/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshpal130/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/harshpal130/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/harshpal130/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshpal130/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/harshpal130/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/harshpal130/DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/harshpal130/DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/harshpal130/DSA/tree/master/0509-fibonacci-number) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshpal130/DSA/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshpal130/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/harshpal130/DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshpal130/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
