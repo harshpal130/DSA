@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/harshpal130/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/harshpal130/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/harshpal130/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/harshpal130/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshpal130/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/harshpal130/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/harshpal130/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/harshpal130/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/harshpal130/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/harshpal130/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/harshpal130/DSA/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harshpal130/DSA/tree/master/2487-remove-nodes-from-linked-list) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshpal130/DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/harshpal130/DSA/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/harshpal130/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/harshpal130/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/harshpal130/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshpal130/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
