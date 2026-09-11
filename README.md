@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshpal130/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/harshpal130/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/harshpal130/DSA/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/harshpal130/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshpal130/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/harshpal130/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshpal130/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/harshpal130/DSA/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/harshpal130/DSA/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/harshpal130/DSA/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/harshpal130/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshpal130/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Backtracking
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/harshpal130/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/harshpal130/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/harshpal130/DSA/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/harshpal130/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshpal130/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1927-sum-game](https://github.com/harshpal130/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshpal130/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/harshpal130/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/harshpal130/DSA/tree/master/0611-valid-triangle-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshpal130/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/harshpal130/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1927-sum-game](https://github.com/harshpal130/DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshpal130/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshpal130/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -478,4 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/harshpal130/DSA/tree/master/0334-increasing-triplet-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/harshpal130/DSA/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/harshpal130/DSA/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
