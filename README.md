@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/harshpal130/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/harshpal130/DSA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/harshpal130/DSA/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/harshpal130/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshpal130/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/harshpal130/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/harshpal130/DSA/tree/master/0896-monotonic-array) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/harshpal130/DSA/tree/master/0724-find-pivot-index) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/harshpal130/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3903-smallest-stable-index-i](https://github.com/harshpal130/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
