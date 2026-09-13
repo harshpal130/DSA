@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/harshpal130/DSA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/harshpal130/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/harshpal130/DSA/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/harshpal130/DSA/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshpal130/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/harshpal130/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/harshpal130/DSA/tree/master/0896-monotonic-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshpal130/DSA/tree/master/0054-spiral-matrix) |
+| [0766-toeplitz-matrix](https://github.com/harshpal130/DSA/tree/master/0766-toeplitz-matrix) |
 ## Simulation
 |  |
 | ------- |
