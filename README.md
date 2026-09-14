@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harshpal130/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/harshpal130/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/harshpal130/DSA/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/harshpal130/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/harshpal130/DSA/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/harshpal130/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshpal130/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -506,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harshpal130/DSA/tree/master/0075-sort-colors) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/harshpal130/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
