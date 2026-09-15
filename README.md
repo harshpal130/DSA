@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harshpal130/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harshpal130/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harshpal130/DSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/harshpal130/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/harshpal130/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/harshpal130/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/harshpal130/DSA/tree/master/0054-spiral-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harshpal130/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshpal130/DSA/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/harshpal130/DSA/tree/master/0766-toeplitz-matrix) |
 ## Simulation
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshpal130/DSA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/harshpal130/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/harshpal130/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/harshpal130/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/harshpal130/DSA/tree/master/0509-fibonacci-number) |
