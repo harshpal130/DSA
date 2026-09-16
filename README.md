@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshpal130/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/harshpal130/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/harshpal130/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/harshpal130/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshpal130/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/harshpal130/DSA/tree/master/0032-longest-valid-parentheses) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshpal130/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/harshpal130/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/harshpal130/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/harshpal130/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/harshpal130/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshpal130/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshpal130/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/harshpal130/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/harshpal130/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/harshpal130/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/harshpal130/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshpal130/DSA/tree/master/0189-rotate-array) |
