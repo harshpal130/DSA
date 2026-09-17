@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/harshpal130/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/harshpal130/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/harshpal130/DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/harshpal130/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/harshpal130/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harshpal130/DSA/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/harshpal130/DSA/tree/master/0771-jewels-and-stones) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/harshpal130/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshpal130/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/harshpal130/DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/harshpal130/DSA/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/harshpal130/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/harshpal130/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/harshpal130/DSA/tree/master/0771-jewels-and-stones) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/harshpal130/DSA/tree/master/0383-ransom-note) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshpal130/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshpal130/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshpal130/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
