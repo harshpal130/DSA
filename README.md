@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshpal130/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshpal130/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshpal130/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/harshpal130/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/harshpal130/DSA/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshpal130/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshpal130/DSA/tree/master/0189-rotate-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harshpal130/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/harshpal130/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshpal130/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/harshpal130/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/harshpal130/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshpal130/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/harshpal130/DSA/tree/master/0205-isomorphic-strings) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harshpal130/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshpal130/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Longest Increasing Subsequence
 |  |
