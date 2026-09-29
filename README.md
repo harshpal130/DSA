@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/harshpal130/DSA/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshpal130/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshpal130/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/harshpal130/DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/harshpal130/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/harshpal130/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/harshpal130/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harshpal130/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/harshpal130/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshpal130/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/harshpal130/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/harshpal130/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/harshpal130/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/harshpal130/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harshpal130/DSA/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshpal130/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshpal130/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/harshpal130/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -574,4 +577,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshpal130/DSA/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshpal130/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshpal130/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshpal130/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshpal130/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
