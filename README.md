@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshpal130/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshpal130/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/harshpal130/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshpal130/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/harshpal130/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshpal130/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshpal130/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/harshpal130/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harshpal130/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/harshpal130/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/harshpal130/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshpal130/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/harshpal130/DSA/tree/master/0204-count-primes) |
@@ -593,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshpal130/DSA/tree/master/0204-count-primes) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/harshpal130/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
