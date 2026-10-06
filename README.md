@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshpal130/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/harshpal130/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshpal130/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/harshpal130/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshpal130/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshpal130/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshpal130/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/harshpal130/DSA/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/harshpal130/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/harshpal130/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2187-minimum-time-to-complete-trips](https://github.com/harshpal130/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshpal130/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
