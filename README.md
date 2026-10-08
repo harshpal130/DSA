@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/harshpal130/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshpal130/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/harshpal130/DSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/harshpal130/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshpal130/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshpal130/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshpal130/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/harshpal130/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/harshpal130/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2187-minimum-time-to-complete-trips](https://github.com/harshpal130/DSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/harshpal130/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshpal130/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/harshpal130/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/harshpal130/DSA/tree/master/0771-jewels-and-stones) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/harshpal130/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/harshpal130/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshpal130/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harshpal130/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshpal130/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/harshpal130/DSA/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/harshpal130/DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/harshpal130/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/harshpal130/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshpal130/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Backtracking
 |  |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/harshpal130/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/harshpal130/DSA/tree/master/0724-find-pivot-index) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/harshpal130/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/harshpal130/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3903-smallest-stable-index-i](https://github.com/harshpal130/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
@@ -622,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harshpal130/DSA/tree/master/0069-sqrtx) |
+## Ordered Set
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/harshpal130/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
