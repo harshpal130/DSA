@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/harshpal130/DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/harshpal130/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshpal130/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/harshpal130/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshpal130/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/harshpal130/DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshpal130/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/harshpal130/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/harshpal130/DSA/tree/master/0771-jewels-and-stones) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/harshpal130/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/harshpal130/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/harshpal130/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshpal130/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harshpal130/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
