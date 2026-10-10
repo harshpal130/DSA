@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/harshpal130/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/harshpal130/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harshpal130/DSA/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/harshpal130/DSA/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/harshpal130/DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/harshpal130/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshpal130/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
